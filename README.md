@@ -51,7 +51,7 @@ Nope! _CS2-Suite's_ success will (hopefully) be my reward. I made this for mysel
 
 No data is (or ever will be) collected. With an authorised copy, the source-code will be human readable for your reassurance. If it’s not, it’s not come from me. Your data is yours and no-one else's! Who you share it with is up to you (but please consider helping us out on official business). 
 
-_CS²-Suite_ will not be publicly available. I plan to make it available free of charge to UK Law Enforcement RF teams under MIT licence terms. You'll need your own stand-alone machine but for any enquiries, simply contact me using your professional email (Law Enforcement only). Heck, further development may open the playing field. If it helps prevent harm, protects the public, and aids justice, it’s all good.
+_CS²-Suite_ will not be publicly available. I plan to make it available free of charge to UK Law Enforcement RF teams under MIT licence terms. You'll need your own stand-alone machine but for any enquiries, simply contact me using your professional email (Law Enforcement only). Further development may open the playing field. If it helps prevent harm, protects the public, and aids justice, it’s all good.
 
 The Group200 LimaCMA has global use. If you have one and are giving _CS²-Suite_ a curious eye, get in touch. It’s good to talk! _CS²-Suite_ also has potential to leverage data from other RF survey tools. If you think this would be useful to use with your tool(s), you know the drill!
 
