@@ -6,7 +6,7 @@ _CS²-Suite_ is a Windows11 RTE workflow comprising of two complimentary applica
 
 _CellStore_ is a data management system, converting raw Group2000 LimaCM data into a compact 'serving cell'  database. _CellSearch_ will be a _CellStore_ query utility providing clinical mapping of _CellStore_ data. Its overall purpose is to answer fundamental questions: has this cell been measured before and, if so, where and when?
 
-Whether you need to know instantly or, you're simply researching a missing cell, the _CS²-Suite_ instantly unlocks tens-of-millions of otherwise untapped measurments. Backfill missing data for your casework, paint that intelligence picture without leaving your desk, locate those devices that need finding! With the _CS²-Suite_ in your corner, you’re empowered to make rapid, dynamic interpretations to inform those critical operational decisions.
+Whether you need rapid access to a cell's known service area or you're researching a missing 3G cell, the _CS²-Suite_ instantly unlocks tens-of-millions of otherwise untapped measurments. Backfill missing data for your casework, paint that intelligence picture without leaving your desk, locate those devices that need finding! With the _CS²-Suite_ in your corner, you’re empowered to make rapid, dynamic interpretations to inform those critical operational decisions.
 
 _CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL. NOTHING DERIVED FROM _CS²-SUITE_ IS INTENDED AS EVIDENCE. _CS²-SUITE_ WILL POINT YOU IN THE DIRECTION OF ORIGINAL SOURCE DATA WHICH SHOULD ALWAYS BE RETAINED FOR EVIDENTIAL USE IN ACCORDANCE WITH YOUR STANDARD PROCEDURES.
 
@@ -31,21 +31,23 @@ _CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL. NOTHING DERIVED FROM _CS²-SUITE_
 
 An average survey spanning several hours can fully parse in under 20 seconds, a few years worth of data within minutes. For example, 3 years totalling 953 files and over 21GB of data (over 89 million rows!) was parsed in 1 hour and 1 minute during beta testing. The result: a serving cell database just over 2GB in size (just under 10% of original size) containing over 19 million valid serving cell records. All this while running on inexpensive hardware and entirely from an encrypted external SSD. 
 
+Stress testing of _CellSearch_ didn't get far. 40 cells queried. 2160 measurments plotted and written to 40 maps in 1 second. Need to query more in a single hit? Let me know if you break it!
+
 ![03](img/03.png)
 
 # _CellSearch_ offers:
+* Search by Cell ID - more than one? You can do it! String 'em together. As many as you like, as often as you can take it. Stress tested with a string of 40, I couldn't break it!
+* Interactive maps - all critical cell data embedded - results instantly at your fingertips! Currently limited to 50,000 points per map, we'll see how that goes.
+* Open maps with your system's default browser. No add-ons, no plug-ins, nothing to install. Internet connection required for OpenStreetMap tile - cell data never leaves your machine!
 
 ![04](img/04.png)
 
-* Search by Cell ID - more than one? You can do it! String 'em together. As many as you like, as often as you can take it. Stress tested with a string of 40, I couldn't break it!
-* Interactive maps - all critical cell data embedded - results instantly at your fingertips! Currently limited to 20,000 points per map, we'll see how that goes.
-* Open the maps with your system's default browser! No add-ons, no plug-ins, nothing to install. Internet connection required for OpenStreetMap tile - cell data never leaves your machine!
 * Clickable cell-points – all vital cell information at the click of a button!
 * Same cell on different days? _CellSearch_ has your 6! A selection of 20 pretty dot colours makes this abundanlty clear. Click the dots to see when the measurement was taken!
 * Signpost back to where you can find the original data for evidential use - date, time and file hash right there with the cell information.
 
 # Too good to be true, right? What’s the catch?
-Nope! _CS2-Suite's_ success is my reward. I made this for myself, my team & my organisation. If I learn of other success too, what can be better than that? Go Team LE! On a serious note, please feed back success stories!
+Nope! _CS2-Suite's_ success will (hopefully) be my reward. I made this for myself, my team & my organisation. If I learn of other success too, what can be better than that? Go Team LE! On a serious note, please feed back success stories!
 
 No data is (or ever will be) collected. With an authorised copy, the source-code will be human readable for your reassurance. If it’s not, it’s not come from me. Your data is yours and no-one else's! Who you share it with is up to you (but please consider helping us out on official business). 
 
