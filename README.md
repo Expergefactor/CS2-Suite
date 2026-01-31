@@ -55,6 +55,6 @@ _CS²-Suite_ will not be publicly available. I plan to make it available free of
 
 The Group200 LimaCMA has global use. If you have one and are giving _CS²-Suite_ a curious eye, get in touch. It’s good to talk! _CS²-Suite_ also has potential to leverage data from other RF survey tools. If you think this would be useful to use with your tool(s), you know the drill!
 
-Please understand, I am but one person juggling a busy life. Unexpected bugs may grow if they gestate and nibble away. If you spot any give 'em a squish or point me in their direction - I’ll deal with theem. Remember, _CS-Suite_ doesn’t replace anything you already have, it just empowers you to do more. It’s not often you get something for free!
+Please understand, I am but one person juggling a busy life. Unexpected bugs may grow if they gestate and nibble away. If you spot any give 'em a squish or point me in their direction - I’ll deal with them. Remember, _CS-Suite_ doesn’t replace anything you already have, it just empowers you to do more. It’s not often you get something for free!
 
 **********
