@@ -6,7 +6,7 @@ _CS²-Suite_ is a Windows11 RTE workflow comprising of two complimentary applica
 
 _CellStore_ is a data management system, converting raw Group2000 LimaCM data into a compact 'serving cell'  database. _CellSearch_ will be a _CellStore_ query utility providing clinical mapping of _CellStore_ data. Its overall purpose is to answer fundamental questions: has this cell been measured before and, if so, where and when?
 
-Whether you need to know instantly or, you're simply researching a missing cell, the _CS²-Suite_ instantly unlocks tens-of-millions of otherwise untapped data. Backfill missing data for your casework, paint that intelligence picture without leaving your desk, locate those devices that need finding! With the _CS²-Suite_ in your corner, you’re empowered to make rapid, dynamic interpretations to inform those critical operational decisions.
+Whether you need to know instantly or, you're simply researching a missing cell, the _CS²-Suite_ instantly unlocks tens-of-millions of otherwise untapped measurments. Backfill missing data for your casework, paint that intelligence picture without leaving your desk, locate those devices that need finding! With the _CS²-Suite_ in your corner, you’re empowered to make rapid, dynamic interpretations to inform those critical operational decisions.
 
 _CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL. NOTHING DERIVED FROM _CS²-SUITE_ IS INTENDED AS EVIDENCE. _CS²-SUITE_ WILL POINT YOU IN THE DIRECTION OF ORIGINAL SOURCE DATA WHICH SHOULD ALWAYS BE RETAINED FOR EVIDENTIAL USE IN ACCORDANCE WITH YOUR STANDARD PROCEDURES.
 
