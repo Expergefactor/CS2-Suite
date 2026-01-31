@@ -1,6 +1,6 @@
 # CS²-Suite Overview
 
-![01](img/01.png)
+![01](img/05.png)
 
 _CS²-Suite_ is a Windows11 RTE workflow comprising of two complimentary applications: _CellStore_ and _CellSearch_. It is a private endeavour & has no affiliation with any commercial service.
 
@@ -34,11 +34,14 @@ An average survey spanning several hours can fully parse in under 20 seconds, a 
 ![03](img/03.png)
 
 # _CellSearch_ offers:
-* Search by Cell ID - more than one? You can do it! String 'em together. As many as you like, as often as you can take it.
-* Interactive maps - all critical cell data embedded - results instantly at your fingertips!
-* Open the maps with your system's default browser! No add-ons, no plug-ins, nothing to install. Internet connection required to load in OpenStreetMap tiles - cell data never leaves your machine!
+
+![04](img/04.png)
+
+* Search by Cell ID - more than one? You can do it! String 'em together. As many as you like, as often as you can take it. Stress tested with a string of 40, I couldn't break it!
+* Interactive maps - all critical cell data embedded - results instantly at your fingertips! Currently limited to 20,000 points per map, we'll see how that goes.
+* Open the maps with your system's default browser! No add-ons, no plug-ins, nothing to install. Internet connection required for OpenStreetMap tile - cell data never leaves your machine!
 * Clickable cell-points – all vital cell information at the click of a button!
-* Same cell on different days? _CellSearch_ has your 6! A selection of pretty colour makes this clear. Click those dots to see when the measurement was taken!
+* Same cell on different days? _CellSearch_ has your 6! A selection of 20 pretty dot colours makes this abundanlty clear. Click the dots to see when the measurement was taken!
 * Signpost back to where you can find the original data for evidential use - date, time and file hash right there with the cell information.
 
 # Too good to be true, right? What’s the catch?
