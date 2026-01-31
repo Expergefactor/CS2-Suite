@@ -29,22 +29,27 @@ _CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL. NOTHING DERIVED FROM _CS²-SUITE_
 
 ![02](img/02.png)
 
-An average survey spanning several hours can fully parse in under 20 seconds, a few years worth of data within minutes. For example, 3 years totalling 953 files and over 21GB of data (over 89 million rows!) was parsed in 1 hour and 1 minute drung beta testing. The result: a serving cell database just over 2GB in size (just under 10% of original size) containing over 19 million valid serving cell records. All this while running on inexpensive hardware and entirely from an encrypted external SSD. 
+An average survey spanning several hours can fully parse in under 20 seconds, a few years worth of data within minutes. For example, 3 years totalling 953 files and over 21GB of data (over 89 million rows!) was parsed in 1 hour and 1 minute during beta testing. The result: a serving cell database just over 2GB in size (just under 10% of original size) containing over 19 million valid serving cell records. All this while running on inexpensive hardware and entirely from an encrypted external SSD. 
 
 ![03](img/03.png)
 
-# (Roadmap) _CellSearch_ will offer:
-* Search by Cell ID - as many as you can handle, as often as you can take it.
-* Mapped output of all matching cell measurements – but not so much to allow sloppy process shortcuts (sorry!).
-* Clickable cell-points – click a dot to see all vital cell information and the date, time and hash for the file the data come from.
-* Identifiable date range per cell – surveyed the same cell on different days? I got you covered!
-* Signpost back to where you can find the original data for evidential use. 
+# _CellSearch_ offers:
+* Search by Cell ID - more than one? You can do it! String 'em together. As many as you like, as often as you can take it.
+* Interactive maps - all critical cell data embedded - results instantly at your fingertips!
+* Open the maps with your system's default browser! No add-ons, no plug-ins, nothing to install. Internet connection required to load in OpenStreetMap tiles - cell data never leaves your machine!
+* Clickable cell-points – all vital cell information at the click of a button!
+* Same cell on different days? _CellSearch_ has your 6! A selection of pretty colour makes this clear. Click those dots to see when the measurement was taken!
+* Signpost back to where you can find the original data for evidential use - date, time and file hash right there with the cell information.
 
 # Too good to be true, right? What’s the catch?
-Nope! I made this for me but I'm all for making friends and doing things ‘smarter’. OK, some bugs may grow as they chew through the database. I’ll deal with things as they happen. This doesn’t replace anything you already have, it compliments it. And, it’s not often you get something for free!
+Nope! _CS2-Suite's_ success is my reward. I made this for myself, my team & my organisation. If I learn of other success too, what can be better than that? Go Team LE! On a serious note, please feed back success stories!
 
-No data is (or ever will be) collected. With an authorised copy, the source-code will be human readable for your reassurance. If it’s not, it’s not come from me. Your data is yours and no-one else's! Who you share it with is up to you (but please consider helping me out if, on an extremely rare occasion, I come asking on official business). 
+No data is (or ever will be) collected. With an authorised copy, the source-code will be human readable for your reassurance. If it’s not, it’s not come from me. Your data is yours and no-one else's! Who you share it with is up to you (but please consider helping us out on official business). 
 
-_CS²-Suite_ is not publicly available but (I hope) to make it available free of charge to UK Law Enforcement under MIT licence terms. Heck, further development may open the playing field. If it helps prevent harm, protects the public, and aids justice, it’s all good.
+_CS²-Suite_ will not be publicly available. I plan to make it available free of charge to UK Law Enforcement RF teams under MIT licence terms. You'll need your own stand-alone machine but for any enquiries, simply contact me using your professional email (Law Enforcement only). Heck, further development may open the playing field. If it helps prevent harm, protects the public, and aids justice, it’s all good.
 
-The Group200 LimaCMA has global use. If you have one and are giving _CS²-Suite_ an envious eye, get in touch. It’s good to talk! For enquiries, please contact me using your professional email (Law Enforcement and professional partners only please). Although not yet pursued, _CS²-Suite_ has potential to leverage data from other RF survey tools so if you think this would be useful to use with your tool, you know the drill!
+The Group200 LimaCMA has global use. If you have one and are giving _CS²-Suite_ a curious eye, get in touch. It’s good to talk! _CS²-Suite_ also has potential to leverage data from other RF survey tools. If you think this would be useful to use with your tool(s), you know the drill!
+
+Please understand, I am but one person juggling a busy life. Unexpected bugs may grow if they gestate and nibble away. If you spot any give 'em a squish or point me in their direction - I’ll deal with theem. Remember, _CS-Suite_ doesn’t replace anything you already have, it just empowers you to do more. It’s not often you get something for free!
+
+**********
