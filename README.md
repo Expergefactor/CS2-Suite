@@ -33,7 +33,7 @@ From rapid access to a cell's known service area to researching a missing 3G cel
 * Clickable cell-points – all vital cell information at the click of a button!
 * Same cell on different days? _CellSearch_ has your 6! A selection of pretty dot colours makes this abundanlty clear. Click the dots to see when the measurement was taken!
 * Just enought to be useful, not quite enough to enable sloppy working practices - signpost back to where you can find the original data for operational use - date, time and file hash right there with the cell information. Now you know what you've got, go and deal with it properly in your usual way.
-* No need to click every dot, comprehensive logging gives you the information you need to gig out the original data, all in a small text file. 
+* No need to click every dot, comprehensive logging gives you the information you need to identify your  original data.
 
 # Performance:
 
