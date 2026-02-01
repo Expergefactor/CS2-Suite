@@ -44,7 +44,7 @@ _CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL. NOTHING DERIVED FROM _CS²-SUITE_
 
 An average survey spanning several hours can fully parse in under 20 seconds, a few years worth of data within minutes. For example, 3 years totalling 953 files and over 21GB of data (over 89 million rows!) was parsed in 61 minutes during beta testing. The result: a serving cell database just under 10% of original size containing over 19 million valid serving cell records. All this while running on inexpensive hardware and entirely from an encrypted external SSD. 
 
-Stress testing of _CellSearch_ didn't take long. A 40-cell string query resulted in 2160 measurments plotted and written to 40 maps in 1 second. Need to query more in a single hit? Let me know if you break it!
+During stress testing of _CellSearch_ with sample data, a 40-cell string query (40 cell IDs separated by a comma) resulted in 2160 measurments plotted and written to 40 maps in 1 second. Need to query more in a single hit? Let me know if you break it!
 
 ![03](img/03.png)
 
