@@ -2,7 +2,7 @@
 
 ![01](img/05.png)
 
-_CS²-Suite_ is a Windows11 RTE workflow comprising of two complimentary applications: _CellStore_ and _CellSearch_. It is a private endeavour & has no endorsement from any organisation or affiliation with commercial enterprise.
+_CS²-Suite_ is a Windows11 RTE workflow comprising of two complimentary applications: _CellStore_ and _CellSearch_. It is a private endeavour & has no endorsement from any organisation or affiliation with any commercial enterprise.
 
 _CellStore_ is a data management system, converting raw Group2000 LimaCM data into a compact 'serving cell'  database. _CellSearch_ will be a _CellStore_ query utility providing clinical mapping of _CellStore_ data. Its overall purpose is to answer fundamental questions: has this cell been measured before and, if so, where and when?
 
