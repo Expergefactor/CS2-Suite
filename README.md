@@ -47,7 +47,7 @@ Stress testing of _CellSearch_ didn't take long. 40 cells queried. 2160 measurme
 ![03](img/03.png)
 
 # Too good to be true, right? What’s the catch?
-Nope! _CS2-Suite's_ success will (hopefully) be my reward. I made this for myself, my team & my organisation. If I learn of other success too, what can be better than that? Go Team LE! On a serious note, please feed back success stories!
+Nope! I made this for myself, my team, my organisation and for the public good. _CS2-Suite's_ success will (hopefully) be my reward. If I learn of other success too, what can be better than that? Go Team LE! On a serious note, please feed back success stories!
 
 No data is (or ever will be) collected. With an authorised copy, the source-code will be human readable for your reassurance. If it’s not, it’s not come from me. Your data is yours and no-one else's! Who you share it with is up to you (but please consider helping us out on official business). 
 
