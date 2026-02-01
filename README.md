@@ -34,7 +34,7 @@ _CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL ONLY, NOTHING MORE. DUE DILIGENCE 
 
 * Clickable cell-points – all vital cell information at the click of a button!
 * Same cell on different days? _CellSearch_ has your 6! A selection of 20 pretty dot colours makes this abundanlty clear. Click the dots to see when the measurement was taken!
-* Signpost back to where you can find the original data for evidential use - date, time and file hash right there with the cell information.
+* Just enought to be useful, not quite enough to enable sloppy working practices - signpost back to where you can find the original data for evidential use - date, time and file hash right there with the cell information. Now you know what you've got, go and deal with it properly in your usual way.
 
 # Performance:
 
