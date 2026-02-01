@@ -55,7 +55,7 @@ No data is (or ever will be) collected. With an authorised copy, the source-code
 
 _CS²-Suite_ will not be publicly available. I plan to make it available free of charge to UK Law Enforcement RF teams under MIT licence terms. You'll need your own stand-alone machine but for any enquiries, simply contact me using your professional email (Law Enforcement only). I'm an advocate of collaboration, if you have any suggestions, I'm all ears. Further development may open the playing field. If it helps prevent harm, protects the public, and aids justice, it’s all good.
 
-The Group200 LimaCM has global use. If you have one and are giving _CS²-Suite_ a curious eye, get in touch. It’s good to talk! _CS²-Suite_ also has potential to leverage data from other RF survey tools. If you think this would be useful to use with your tool(s), you know the drill!
+The Group200 LimaCM is available around the globe including the USA, Canada, UK, Australia, and New Zealand. If you have one and are giving _CS²-Suite_ a curious eye, you're welcome to get in touch. It’s good to talk! _CS²-Suite_ also has potential to leverage data from other RF survey tools. If you think this would be useful to use with your tool(s), you know the drill!
 
 Please understand, I am but one person juggling a busy life. Unexpected bugs may grow if they gestate and nibble away. If you spot any give 'em a squish or point me in their direction - I’ll deal with them. 
 
