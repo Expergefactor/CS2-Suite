@@ -8,8 +8,6 @@ _CellStore_ is a data management system, converting raw Group2000 LimaCM data in
 
 From rapid access to a cell's known service area to researching a missing 3G cell, the _CS²-Suite_ instantly unlocks tens-of-millions of otherwise untapped measurments. Backfill missing data for your casework, paint that intelligence picture without leaving your desk, locate those devices that need finding! With the _CS²-Suite_ in your corner, you’re empowered to make rapid, dynamic interpretations to inform those critical operational decisions. 
 
-_CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL ONLY, NOTHING MORE. DUE DILIGENCE IS ESSENTIAL! _CS2-SUITE_ DOES NOT, NOR DOES IT SEEK TO, CIRCUMVENT  YOUR STANDARD OPERATING PROCEDURES. ALWAYS CHECK _CELLSEARCH_ RESULTS AGAINST ORIGINAL DATA  USING OFFICIAL ANALYTICAL TOOLS BEFORE TAKING ANY REAL-WORLD ACTION. THE AUTHOR WILL NOT BE LIABLE FOR FAILURES TO ADHERE TO THIS ADVICE. NOTHING DERIVED FROM _CS²-SUITE_ IS INTENDED AS EVIDENCE. _CS²-SUITE_ WILL POINT YOU IN THE DIRECTION OF ORIGINAL SOURCE DATA WHICH MUST ALWAYS BE USED AS EVIDENCE OR WHERE REAL-WORLD CONSEQUENCES MAY ARISE.
-
 # _CellStore_ offers:
 * Rapid leverage from tens-of-millions of cell measurements.
 * Pivot survey data to critical incident intelligence – like similar cell intelligence products but with CS²-Suite, you know where the data has come from. Even better, it’s free!
@@ -59,5 +57,9 @@ The Group200 LimaCM is available around the globe including the USA, Canada, UK,
 Please understand, I am but one person juggling a busy life. Unexpected bugs may grow if they gestate and nibble away. If you spot any give 'em a squish or point me in their direction - I’ll deal with them. 
 
 Remember, _CS-Suite_ doesn’t replace anything you already have, it just unlocks potential and empowers you to do more.
+
+# Disclaimer...
+
+_CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL ONLY, NOTHING MORE. DUE DILIGENCE IS ESSENTIAL! _CS2-SUITE_ DOES NOT, NOR DOES IT SEEK TO, CIRCUMVENT  YOUR STANDARD OPERATING PROCEDURES. ALWAYS CHECK _CELLSEARCH_ RESULTS AGAINST ORIGINAL DATA  USING OFFICIAL ANALYTICAL TOOLS BEFORE TAKING ANY REAL-WORLD ACTION. THE AUTHOR WILL NOT BE LIABLE FOR FAILURES TO ADHERE TO THIS ADVICE. NOTHING DERIVED FROM _CS²-SUITE_ IS INTENDED AS EVIDENCE. _CS²-SUITE_ WILL POINT YOU IN THE DIRECTION OF ORIGINAL SOURCE DATA WHICH MUST ALWAYS BE USED AS EVIDENCE OR WHERE REAL-WORLD CONSEQUENCES MAY ARISE.
 
 **********
