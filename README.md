@@ -8,9 +8,7 @@ _CellStore_ is a data management system, converting raw Group2000 LimaCM data in
 
 From rapid access to a cell's known service area to researching a missing 3G cell, the _CS²-Suite_ instantly unlocks tens-of-millions of otherwise untapped measurments. Backfill missing data for your casework, paint that intelligence picture without leaving your desk, locate those devices that need finding! With the _CS²-Suite_ in your corner, you’re empowered to make rapid, dynamic interpretations to inform those critical operational decisions. 
 
-Due diligence is essential! Always check results against your original data and official analytical products before acting on any intelligence derived from _CS2-Suite_
-
-_CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL. NOTHING DERIVED FROM _CS²-SUITE_ IS INTENDED AS EVIDENCE. _CS²-SUITE_ WILL POINT YOU IN THE DIRECTION OF ORIGINAL SOURCE DATA WHICH SHOULD ALWAYS BE RETAINED FOR EVIDENTIAL USE IN ACCORDANCE WITH YOUR STANDARD PROCEDURES.
+_CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL ONLY, NOTHING MORE. DUE DILIGENCE IS ESSENTIAL! _CS2-SUITE_ DOES NOT, NOR DOES IT SEEK TO, CIRCUMVENT  YOUR STANDARD OPERATING PROCEDURES. ALWAYS CHECK _CELLSEARCH_ RESULTS AGAINST ORIGINAL DATA  USING OFFICIAL ANALYTICAL TOOLS BEFORE TAKING ANY REAL-WORLD ACTION. THE AUTHOR WILL NOT BE LIABLE FOR FAILURES TO ADHERE TO THIS ADVICE. NOTHING DERIVED FROM _CS²-SUITE_ IS INTENDED AS EVIDENCE. _CS²-SUITE_ WILL POINT YOU IN THE DIRECTION OF ORIGINAL SOURCE DATA WHICH MUST ALWAYS BE USED AS EVIDENCE & WHERE REAL-WORLD CONSEQUENCES MAY ARISE.
 
 # _CellStore_ offers:
 * Rapid leverage from tens-of-millions of cell measurements.
