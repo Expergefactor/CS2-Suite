@@ -25,16 +25,6 @@ _CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL. NOTHING DERIVED FROM _CS²-SUITE_
 * Easy to reproduce if it all goes wrong for whatever reason.
 * Built by someone-who-uses-the-kit for people-who-use-the-kit!
 
-# Performance:
-
-![02](img/02.png)
-
-An average survey spanning several hours can fully parse in under 20 seconds, a few years worth of data within minutes. For example, 3 years totalling 953 files and over 21GB of data (over 89 million rows!) was parsed in 1 hour and 1 minute during beta testing. The result: a serving cell database just over 2GB in size (just under 10% of original size) containing over 19 million valid serving cell records. All this while running on inexpensive hardware and entirely from an encrypted external SSD. 
-
-Stress testing of _CellSearch_ didn't get far. 40 cells queried. 2160 measurments plotted and written to 40 maps in 1 second. Need to query more in a single hit? Let me know if you break it!
-
-![03](img/03.png)
-
 # _CellSearch_ offers:
 * Search by Cell ID - more than one? You can do it! String 'em together. As many as you like, as often as you can take it. Stress tested with a string of 40, I couldn't break it!
 * Interactive maps - all critical cell data embedded - results instantly at your fingertips! Currently limited to 50,000 points per map, we'll see how that goes.
@@ -46,6 +36,16 @@ Stress testing of _CellSearch_ didn't get far. 40 cells queried. 2160 measurment
 * Same cell on different days? _CellSearch_ has your 6! A selection of 20 pretty dot colours makes this abundanlty clear. Click the dots to see when the measurement was taken!
 * Signpost back to where you can find the original data for evidential use - date, time and file hash right there with the cell information.
 
+# Performance:
+
+![02](img/02.png)
+
+An average survey spanning several hours can fully parse in under 20 seconds, a few years worth of data within minutes. For example, 3 years totalling 953 files and over 21GB of data (over 89 million rows!) was parsed in 1 hour and 1 minute during beta testing. The result: a serving cell database just over 2GB in size (just under 10% of original size) containing over 19 million valid serving cell records. All this while running on inexpensive hardware and entirely from an encrypted external SSD. 
+
+Stress testing of _CellSearch_ didn't take long. 40 cells queried. 2160 measurments plotted and written to 40 maps in 1 second. Need to query more in a single hit? Let me know if you break it!
+
+![03](img/03.png)
+
 # Too good to be true, right? What’s the catch?
 Nope! _CS2-Suite's_ success will (hopefully) be my reward. I made this for myself, my team & my organisation. If I learn of other success too, what can be better than that? Go Team LE! On a serious note, please feed back success stories!
 
@@ -55,6 +55,8 @@ _CS²-Suite_ will not be publicly available. I plan to make it available free of
 
 The Group200 LimaCM has global use. If you have one and are giving _CS²-Suite_ a curious eye, get in touch. It’s good to talk! _CS²-Suite_ also has potential to leverage data from other RF survey tools. If you think this would be useful to use with your tool(s), you know the drill!
 
-Please understand, I am but one person juggling a busy life. Unexpected bugs may grow if they gestate and nibble away. If you spot any give 'em a squish or point me in their direction - I’ll deal with them. Remember, _CS-Suite_ doesn’t replace anything you already have, it just empowers you to do more. It’s not often you get something for free!
+Please understand, I am but one person juggling a busy life. Unexpected bugs may grow if they gestate and nibble away. If you spot any give 'em a squish or point me in their direction - I’ll deal with them. 
+
+Remember, _CS-Suite_ doesn’t replace anything you already have, it just unlocks potential and empowers you to do more.
 
 **********
