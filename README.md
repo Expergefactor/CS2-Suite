@@ -51,7 +51,7 @@ Stress testing of _CellSearch_ didn't take long. 40 cells queried. 2160 measurme
 # Too good to be true, right? What’s the catch?
 Nope! I made this for myself, my team, my organisation and for the public good. _CS2-Suite's_ success will (hopefully) be my reward. If I learn of other success too, what can be better than that? Go Team LE! On a serious note, please feed back success stories!
 
-No data is (or ever will be) collected. With an authorised copy, the source-code will be human readable for your reassurance. If it’s not, it’s not come from me. Your data is yours and no-one else's! Who you share it with is up to you (but please consider helping us out on official business). 
+No data is (or ever will be) collected. With an authorised copy, the source-code will be human readable for your reassurance. If it’s not, it’s not come from me. Your data is yours and no-one else's! Who you share it with is up to you. 
 
 _CS²-Suite_ will not be publicly available. I plan to make it available free of charge to UK Law Enforcement RF teams under MIT licence terms. You'll need your own stand-alone machine but for any enquiries, simply contact me using your professional email (Law Enforcement only). Further development may open the playing field. If it helps prevent harm, protects the public, and aids justice, it’s all good.
 
