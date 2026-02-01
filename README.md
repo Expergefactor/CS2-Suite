@@ -28,9 +28,9 @@ _CS²-SUITE_ IS A CAPABILITY ENHANCEMENT TOOL. NOTHING DERIVED FROM _CS²-SUITE_
 * Built by someone-who-uses-the-kit for people-who-use-the-kit!
 
 # _CellSearch_ offers:
-* Search by Cell ID - more than one? You can do it! String 'em together. As many as you like, as often as you can take it. Stress tested with a string of 40, I couldn't break it!
+* Search by Cell ID - more than one? You can do it! String 'em together. As many as you like, as often as you can take it. Stress tested with a string of 40, if you get it to break, let me know.
 * Interactive maps - all critical cell data embedded - results instantly at your fingertips! Currently limited to 50,000 points per map, we'll see how that goes.
-* Open maps with your system's default browser. No add-ons, no plug-ins, nothing to install. Internet connection required for OpenStreetMap tile - cell data never leaves your machine!
+* Launch maps with your system's default browser. No add-ons, no plug-ins, nothing to install. Internet connection required for OpenStreetMap tile - cell data never leaves your machine!
 
 ![04](img/04.png)
 
